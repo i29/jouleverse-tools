@@ -1,3 +1,1 @@
 # jouleverse-utils
-
-gpgkey test
